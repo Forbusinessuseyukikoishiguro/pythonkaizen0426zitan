@@ -1,0 +1,2 @@
+# pythonkaizen0426zitan
+note公開用業務改善Pythonコード
